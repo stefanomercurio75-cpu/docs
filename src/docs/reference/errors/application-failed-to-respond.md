@@ -1,9 +1,5 @@
----
-title: Application Failed to Respond
-description: Learn how to troubleshoot and fix the 'Application Failed to Respond' error.
----
 
-<Image src="https://res.cloudinary.com/railway/image/upload/v1722017042/docs/application-error_wgrwro_i4tjkl.png"
+src="https://res.cloudinary.com/railway/image/upload/v1722017042/docs/application-error_wgrwro_i4tjkl.png"
 alt="Screenshot of application failed to respond error"
 layout="intrinsic"
 width={1080} height={950}
